@@ -67,7 +67,7 @@ RSLineBuilder sunburstBezier
 		yourself);
 	canvas: sb canvas;
 	connectFrom: #superclass.
-sb open
+sb canvas open
 
 -----------------------------
 nodesModel := $a to: $s.
